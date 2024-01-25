@@ -1,5 +1,5 @@
 # Module-20-Challenge
-In this repository you will find a .py file named Final Joint Savings Jobs, in this file we are creating a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. This smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+In this repository you will find a .sol file named Final Joint Savings Jobs, in this file we are creating a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. This smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 
 # Part 1 Create a Joint Savings Account Contract in Solidity
 In this section, we will Create a Joint Savings Account Contract in Solidity
